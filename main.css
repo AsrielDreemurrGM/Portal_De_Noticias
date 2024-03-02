@@ -95,7 +95,7 @@ section h2 {
 }
 
 #sports .articles article a {
-    background-color: #009432;
+    background-color: #05d34a;
 }
 
 #economy {
@@ -104,4 +104,20 @@ section h2 {
 
 #economy .articles article a {
     background-color: #ff9f1a;
+}
+
+#technology {
+    background-color: rgba(110, 6, 247, 0.384);
+}
+
+#technology .articles article a {
+    background-color: rgb(110, 6, 247);
+}
+
+#health {
+    background-color: rgba(0, 217, 255, 0.281);
+}
+
+#health .articles article a {
+    background-color: rgb(0, 102, 255);
 }
